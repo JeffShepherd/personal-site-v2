@@ -1,3 +1,17 @@
+Welcome to the second version of my personal website! I am building this with bits of my spare time while I work a full time job, and maintain an active lifestyle.
+
+[Deployed site - currently V1](https://www.jeffshepherd.tech)
+
+Goals:
+1. Create a space to display my portfolio of small projects
+2. Sandbox to experiment with new ideas, techniques, and tools/technologies
+3. Current ideas to implement:
+  - Contact form that sends me email
+  - Dashboard that consumes multiple APIs and displays information I look at daily (ex: weather, stock tickers, news)
+
+
+--------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
